@@ -1,5 +1,7 @@
 ### CHATBOT Whatsapp (Baileys Provider)
 
+Project designed to automate WhatsApp messaging. Built using Python, the bot leverages libraries like Selenium to interact with the web version of WhatsApp. Its primary functionality is to send and schedule messages through a user's WhatsApp account.
+
 <p align="center">
   <img width="300" src="https://i.imgur.com/Oauef6t.png">
 </p>
