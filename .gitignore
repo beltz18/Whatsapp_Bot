@@ -1,0 +1,11 @@
+core.class.log
+baileys.log
+.env
+bot_sessions/
+bot.qr.png
+
+# managed by open-wa
+**.data.json
+**.node-persist**
+**_IGNORE_**
+# end managed by open-wa
